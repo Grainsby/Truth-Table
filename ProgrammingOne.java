@@ -8,11 +8,6 @@ import javax.script.ScriptException;
 /*
 Graham Rainsby
 
-“Programming Assignment 1
-
-did not work with anyone
-
-
 Sample Output:
 enter the logical statements in this format: (['(A and C) or not D','(B or C) and (D or A)','(not C and B) or (not D and not B)']):
 (["(A and C) or not D","(B or C) and (D or A)","(not C and B) or (not D and not B)","A and B"])
@@ -21,7 +16,6 @@ A C D B
 T F F T 
 
 
-8 hours spent working on this
 */
 
 public class ProgrammingOne {
